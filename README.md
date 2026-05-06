@@ -21,7 +21,6 @@ CEO of [Atheric](https://atheric.eu) — a small studio for digital work, based 
 | Repository | Description |
 |---|---|
 | [atheric-public](https://github.com/lawyki/atheric-public) | Studio site — atheric.eu, *liquid chrome edition*, 2026. |
-| [codon-atheric](https://github.com/lawyki/codon-atheric) | Codon Therapeutics — a fictional CRISPR therapeutics brand, case study. |
 | [brand-designs](https://github.com/lawyki/brand-designs) | A category-agnostic protocol for generating uniform, premium brand concepts. Readable by a designer; executable by an AI. |
 
 ---
