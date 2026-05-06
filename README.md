@@ -1,48 +1,34 @@
 # Yki Lähteenmäki
 
-Independent studio for digital work. Based in Helsinki.
+High school student from Finland. Exploring the intersection of mathematics, machine learning, and the natural sciences.
 
-[atheric.eu](https://atheric.eu) — studio
-hello@atheric.eu
-
----
-
-## Currently
-
-— [cobalt-atheric](https://github.com/lawyki/cobalt-atheric) · a fictional one-bottle cologne house, case study for the studio.
+CEO of [Atheric](https://atheric.eu) — a small studio for digital work, based in Helsinki.
 
 ---
 
-## Atheric — case studies & studio work
+## Writing
 
-| Repository | Description |
-|---|---|
-| [cobalt-atheric](https://github.com/lawyki/cobalt-atheric) | Cobalt — a fictional luxury cologne house. Single-page case study, deep-blue 12-act scroll-driven site. |
-| [Atheric-Home](https://github.com/lawyki/Atheric-Home) | Studio site. |
-| [atheric-public](https://github.com/lawyki/atheric-public) | Public-facing studio assets. |
-| [codon-atheric](https://github.com/lawyki/codon-atheric) | — |
+— **[Under the Code](https://under.atheric.eu)** · a unified theory of how computers actually work. Five parts, eighteen chapters, ~93,000 words, ~210 inline-SVG figures.
 
-## Public — showcases & writing
+## Research
 
-| Repository | Description |
-|---|---|
-| [under-the-code](https://github.com/lawyki/under-the-code) | — |
-
-## Code — personal
-
-| Repository | Description |
-|---|---|
-| [Code](https://github.com/lawyki/Code) | Personal mother repo — experiments, scripts, notes. |
+Computational neuroscience, machine learning, applied mathematics. Ongoing work lives in [Code](https://github.com/lawyki/Code).
 
 ---
 
-## Stack
+## Atheric — case studies
 
-Vanilla JavaScript · CSS · HTML · Three.js · Vite. No frameworks unless one is necessary.
+| Repository | Description |
+|---|---|
+| [atheric-public](https://github.com/lawyki/atheric-public) | Studio site — atheric.eu, *liquid chrome edition*, 2026. |
+| [codon-atheric](https://github.com/lawyki/codon-atheric) | Codon Therapeutics — a fictional CRISPR therapeutics brand, case study. |
 
-## Approach
+## Source
 
-Restraint. The discipline is the product.
+| Repository | Description |
+|---|---|
+| [under-the-code](https://github.com/lawyki/under-the-code) | Source for the book. |
+| [Code](https://github.com/lawyki/Code) | Mother repo — domain-bucketed across computational neuroscience, machine learning, and websites. |
 
 ---
 
