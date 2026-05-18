@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Per-machine agent / tool config (never committed)
+.claude/
+.env
+.env.local
