@@ -23,3 +23,7 @@ CEO of [Atheric](https://atheric.eu) — a small studio for digital work, based 
 | [atheric-exhibition](https://github.com/atheric-studios/atheric-exhibition) | Studio site — atheric.eu, *liquid chrome edition*, 2026. |
 
 Helsinki · MMXXVI
+
+## Status
+
+Active — last updated 2026-05-19.
