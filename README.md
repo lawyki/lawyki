@@ -8,11 +8,11 @@ CEO of [Atheric](https://atheric.eu) — a small studio for digital work, based 
 
 ## Writing
 
-— **[Under the Code](https://under.atheric.eu)** · a unified theory of how computers actually work. Five parts, eighteen chapters, ~93,000 words, ~210 inline-SVG figures. Source at [under-the-code](https://github.com/lawyki/under-the-code).
+**[Under the Code](https://under.atheric.eu)** · a unified theory of how computers actually work. Five parts, eighteen chapters, ~93,000 words, ~210 inline-SVG figures.
 
 ## Research
 
-— **[ML-vapor-pressure-prediction](https://github.com/lawyki/ML-vapor-pressure-prediction)** · predicting molecular vapor pressure from ECFP4 fingerprints. MLP vs XGB ensemble study on 31k atmospheric molecules.
+**[ML-vapor-pressure-prediction](https://github.com/lawyki/ML-vapor-pressure-prediction)** · predicting molecular vapor pressure from ECFP4 fingerprints. MLP vs XGB ensemble study on 31k atmospheric molecules.
 
 ---
 
@@ -20,9 +20,6 @@ CEO of [Atheric](https://atheric.eu) — a small studio for digital work, based 
 
 | Repository | Description |
 |---|---|
-| [atheric-public](https://github.com/lawyki/atheric-public) | Studio site — atheric.eu, *liquid chrome edition*, 2026. |
-| [brand-designs](https://github.com/lawyki/brand-designs) | A category-agnostic protocol for generating uniform, premium brand concepts. Readable by a designer; executable by an AI. |
-
----
+| [atheric-exhibition](https://github.com/atheric-studios/atheric-exhibition) | Studio site — atheric.eu, *liquid chrome edition*, 2026. |
 
 Helsinki · MMXXVI
