@@ -12,12 +12,8 @@ ensemble on ~31k molecules reaches MAE 0.65 (log₁₀), on par with a published
 neural network on the same dataset.
 
 **[Language models in a self-feedback loop](https://github.com/lawyki/llm-continue-loop)** ·
-what a language model does when its only input is its own history. I ran local Qwen
-models (9B and 2B) overnight on a loop that sends the same empty message every turn,
-15 runs and 2,047 logged replies, and measured how each run drifts: reply length,
-word entropy and overlap with the previous reply. Runs settle into attractors, from
-endless story endings to one reply copied 129 times in a row, and the write-up
-explains why through feedback, mode collapse and the model's tendency to copy.
+local Qwen models answering "Continue." to their own history overnight: 15 runs, 2,047
+logged replies, and how and why they fall into attractors.
 
 ## Building
 
