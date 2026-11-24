@@ -1,8 +1,7 @@
 # Yki
 
-High school student from Finland. I work on mathematics, machine learning and the
-natural sciences, and on how complex systems connect. Currently building hands-on
-cybersecurity skills on top of the theory.
+High school student from Finland. Exploring the intersection of mathematics, machine learning,
+and the natural sciences.
 
 ## Research
 
